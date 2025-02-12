@@ -8,7 +8,7 @@ int main() {
 
         sum = a+b;
 
-        printf("Sum of %d\n", a, b, sum);
+        printf("Sum %d",sum);
 
     return 0;
 }
